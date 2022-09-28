@@ -28,7 +28,6 @@ Try datasets `diginetica` or `unsplash` on baseline `SASRec` model, e.g.:
 bash script/{diginetica,unsplash}/sasrec.sh 0
 ```
 
-
 ## Bibtex
 
 Please cite our paper if using this code, and feel free to contact [zhh004@eng.ucsd.edu](zhh004@eng.ucsd.edu) if any questions.

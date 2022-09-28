@@ -1,12 +1,12 @@
 # Query-Aware Sequential Recommendation
 
-MAIN IDEA: Use *user queries* to prunctuate and enrich *interaction sequences*!
+MAIN IDEA: Use *user queries* to prunctuate and enrich *interaction sequences*! Please check the details [here](https://cseweb.ucsd.edu/~jmcauley/pdfs/cikm22c.pdf)!
 
 ![Introduction](./image/intro.jpg)
 
-This is the pytorch implementation of this paper [Query-Aware Sequential Recommendation.](https://cseweb.ucsd.edu/~jmcauley/pdfs/cikm22c.pdf) 
+This is the pytorch implementation of this paper:
 
-Zhankui He, Handong Zhao, Zhaowen Wang, Zhe Lin, Ajinkya Kale, Julian McAuley. 31st ACM International Conference on Information and Knowledge Management, CIKM 2022, short paper track.
+[Query-Aware Sequential Recommendation.](https://cseweb.ucsd.edu/~jmcauley/pdfs/cikm22c.pdf) Zhankui He, Handong Zhao, Zhaowen Wang, Zhe Lin, Ajinkya Kale, Julian McAuley. 31st ACM International Conference on Information and Knowledge Management, CIKM 2022, short paper track.
 
 
 ## Dependencies
